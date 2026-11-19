@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity | Network Engineering | AI Security
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajubha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajubha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharathrajusubramani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathrajusubramani)
 [![Email](https://img.shields.io/badge/Email-bharathrarazu14396%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathrarazu14396@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bharathraju.vercel.app-5cf2a6?style=for-the-badge&logo=vercel&logoColor=black)](https://bharathraju.vercel.app)
 [![Location](https://img.shields.io/badge/Location-Sydney%2C%20NSW-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Sydney,NSW)
