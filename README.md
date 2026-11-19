@@ -1,119 +1,86 @@
-<div align="center">
 
-# Hi, I'm Bharath Raju Subramani 👋
+# Hi, I'm Bharath Raju Subramani
 
-### 🔐 Cybersecurity | Network Engineering | AI Security
+**Cybersecurity | Network Engineering | AI Security**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bharathrajusubramani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharathrajusubramani)
-[![Email](https://img.shields.io/badge/Email-bharathrarazu14396%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathrarazu14396@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bharathraju.vercel.app-5cf2a6?style=for-the-badge&logo=vercel&logoColor=black)](https://bharathraju.vercel.app)
-[![Location](https://img.shields.io/badge/Location-Sydney%2C%20NSW-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Sydney,NSW)
+[Professional Portfolio](https://bharathraju.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bharathrajusubramani/) · [Email](mailto:bharathrarazu14396@gmail.com)
 
-</div>
+Sydney, NSW, Australia
 
----
+## About me
 
-## 👨‍💻 About Me
+Cybersecurity postgraduate from Macquarie University with over three years of professional experience in enterprise network engineering and security across Australia and India. Currently a Field Network Engineer at ENbridge IT Services, delivering SD-WAN migrations, network deployments and secure infrastructure operations.
 
-Cybersecurity postgraduate from **Macquarie University** with **3+ years** of enterprise network engineering and network security experience across India and Australia. Currently a **Field Network Engineer at ENbridge IT Services** in Sydney, delivering SD-WAN migrations, network deployments and circuit upgrades for banking, government, retail and corporate clients.
+My technical focus spans network security, incident response, threat intelligence, security architecture and agentic AI security, combining hands-on engineering experience with security research and independent project development.
 
-Focused on **incident investigation, threat intelligence, vulnerability assessment and agentic AI security** — bringing a hands-on networking foundation into security.
+## Featured cybersecurity work
 
----
+| Project | Status | Overview |
+|---|---|---|
+| **AgentOne — Agentic AI Penetration Testing** | Academic research prototype, 2026 | Collaborated on policy enforcement, tool authorisation and indirect prompt injection safeguards. Two documented demonstrations: an unauthorised action was blocked during the adversarial run, but the legitimate summary task failed. Not a comprehensive or statistically validated defence. |
+| **Cyber Incident Investigation & Response** | Simulated academic case study, 2026 | Reconstructed an infostealer-driven account takeover from authentication logs and audit records. Identified 412 export calls and potential exposure of approximately 41,200 candidate profiles; developed an incident response plan. |
+| **EdgeClosure — B2B Network Security Platform** | Planning & architecture, 2026–present | Designing evidence-based network security assessment, read-only data collection, deterministic decisions, cryptographic evidence verification and auditable remediation verification. Planned capabilities are not yet implemented. |
+| **DeceptID — AI-Powered Identity Security Platform** | Early development, 2026–present | Collaborative identity security project exploring consent-aware biometric identification, presentation attack detection, deterministic access decisions and security auditing. Architecture and foundational synthetic camera testing have begun; full biometric functionality remains under development. |
 
-## 🎓 Education
+[Explore project summaries on my portfolio](https://bharathraju.vercel.app/#projects). Private project repositories and restricted academic material are not publicly shared.
+
+## Public software projects
+
+- **[Password Strength Analyser](https://github.com/bharathraju-sec/password-strength-analyser)** — client-side password scoring, pattern detection, entropy and model-based crack-time estimates; JavaScript, HTML, CSS and Jest.
+- **[Professional Portfolio](https://github.com/bharathraju-sec/bharathraju-sec.github.io)** — static JavaScript portfolio with interactive SVG illustrations, structured project content and professional branding. [Visit the deployed website](https://bharathraju.vercel.app/).
+
+<!-- Add Chaanavya only after the owner explicitly confirms commercial-public visibility:
+- **[Chaanavya](https://github.com/bharathraju-sec/Chaanavya/tree/upgrade)** — independent e-commerce redevelopment using Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Better Auth and Docker. In development; checkout is not open, and customer journeys remain unverified.
+-->
+
+Earlier projects: Speech Emotion Detection (Python, Librosa, Flask) and Smart Campus Navigation (GPS, Google Maps API, Firebase). Summaries are on my portfolio.
+
+## Technical skills
+
+| Area | Skills |
+|---|---|
+| Networking | TCP/IP, LAN/WAN, SD-WAN, routing and switching, VLANs, subnetting, DNS, DHCP, VPNs, network troubleshooting, load balancing |
+| Enterprise technologies | Cisco ISR, Cisco firewalls and switches, HPE Aruba EdgeConnect, VMware VeloCloud, Windows Server |
+| Network security | Firewall administration, access control, network segmentation, security patching, secure device decommissioning |
+| Cybersecurity | Vulnerability assessment, penetration testing, threat modelling, incident response, threat intelligence, log analysis, security monitoring, SIEM fundamentals, cryptography, security architecture |
+| AI security | Agentic AI security, LLM security, prompt injection, tool authorisation, security guardrails |
+| Frameworks | MITRE ATT&CK, NIST CSF 2.0, NIST SP 800-61 |
+| Tools & platforms | Kali Linux, Wireshark, Nessus, Nmap, Burp Suite, Metasploit, Python, JavaScript, Java, SQL, Linux, Git, Docker, VMware, PostgreSQL, REST APIs |
+
+Professional network engineering experience is distinct from academic cybersecurity and independent project experience.
+
+## Professional experience
+
+**Field Network Engineer — ENbridge IT Services, Sydney NSW** | May 2026–Present
+
+- Delivered 20+ enterprise infrastructure assignments, including SD-WAN migrations, network deployments and circuit upgrades.
+- Installed, migrated and troubleshot Cisco ISR, HPE Aruba EdgeConnect and VMware VeloCloud.
+- Identified and resolved an asset serial number discrepancy during infrastructure decommissioning, preventing the potential removal of incorrect network equipment.
+
+**Network Engineer — VNews24 Kannada, Bengaluru, India** | Sep 2021–Jun 2024
+
+- Maintained network and server infrastructure supporting approximately 100 employees, 150 computers and eight Windows Servers.
+- Administered Cisco firewalls, routers, switches and load balancer infrastructure within a two-member technical team.
+
+**Sales Executive — TVS – Prakruthi Mobikes, Bengaluru, India** | Aug 2014–Apr 2017
+
+- Customer engagement, sales targets and collaboration within an eight-member team.
+
+## Education
 
 | Degree | Institution | Period |
-|--------|-------------|--------|
-| 🎓 Master of Information Technology — Cyber Security | Macquarie University, Sydney | 2025 – 2026 |
+|---|---|---|
+| Master of Information Technology — Cyber Security | Macquarie University, Australia | 2025–2026 |
+| Bachelor of Technology — Computer Science | Himalayan University, India | 2017–2021 |
 
----
+## Certifications & training
 
-## 💼 Experience
+- Certifications: CEH, CCNA, Google Cybersecurity Professional Certificate.
+- Additional training: Python Pro Bootcamp, Full-Stack Web Development Bootcamp, Java Programming.
 
-**Field Network Engineer** — *ENbridge IT Services, Sydney NSW* · `May 2026 – Present`
-- Delivered 20+ enterprise infrastructure assignments, including SD-WAN migrations, deployments and circuit upgrades.
-- Installed, migrated and troubleshot Cisco ISR, HPE Aruba EdgeConnect and VMware VeloCloud.
+## Security activities
 
-**Network Engineer** — *VNews24 Kannada, Bengaluru India* · `Sep 2021 – Jun 2024`
-- Maintained network and server infrastructure for ~100 staff, 150 computers and eight Windows Servers.
-- Administered Cisco firewalls, routers, switches and load balancers.
+Capture the Flag challenges, cybersecurity research, technical presentations and collaborative security projects.
 
-**Sales Executive** — *TVS – Prakruthi Mobikes, Bengaluru India* · `Aug 2014 – Apr 2017`
+For professional experience and project details, visit [my portfolio](https://bharathraju.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/bharathrajusubramani/).
 
----
-
-## 🛡️ Tech Stack & Skills
-
-**Security Tools**
-```
-Kali Linux | Wireshark | Nessus | Nmap | Burp Suite | Metasploit Framework
-```
-
-**Networking**
-```
-TCP/IP | SD-WAN | Subnetting | VLANs | Routing & Switching | Firewalls | Load Balancers | VPNs
-```
-
-**Security Domains**
-```
-Incident Response | Threat Intelligence | Vulnerability Assessment | Agentic AI Security | Cryptography
-```
-
-**Frameworks**
-```
-MITRE ATT&CK | NIST CSF 2.0 | NIST SP 800-61
-```
-
-**Programming & Platforms**
-```
-Python | Java | JavaScript | SQL | Linux | Git | Docker | PostgreSQL
-```
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 **AgentOne** | Agentic AI security prototype — policy enforcement, tool authorisation and runtime safeguards against indirect prompt injection (Macquarie major project) | Python, LLM security |
-| 🕵️ **Cyber Incident Investigation & Response** | Reconstructed an infostealer-driven account takeover from logs and evidence; wrote the IR plan | NIST SP 800-61, MITRE ATT&CK |
-| 🧱 **EdgeClosure** *(in progress)* | Evidence-based B2B network security assessment and remediation-verification platform | Architecture, cryptography |
-| 🔑 **[Password Strength Analyser](https://github.com/bharathraju-sec/password-strength-analyser)** | Live password scoring with regex rules, entropy and crack-time estimates for four attack scenarios | JavaScript, Regex, Jest |
-| 🎙️ **Speech Emotion Detection** | ML system classifying emotion from speech | Python, Librosa, Flask |
-| 🗺️ **Smart Campus Navigation** | Campus navigation app with GPS routing and Firebase | Google Maps API, Firebase |
-
----
-
-## 🏅 Certifications
-
-`CEH` &nbsp; `CCNA` &nbsp; `Google Cybersecurity Certificate` &nbsp; `Python Pro Bootcamp` &nbsp; `Java` &nbsp; `Full-Stack Web Dev Bootcamp`
-
----
-
-## 🌐 CTF & Security Activities
-
-- 🏴 **Capture The Flag (CTF)** — vulnerability assessment, network reconnaissance, incident investigation
-- 🔬 **Cybersecurity Research** — threat analysis, risk management frameworks, network security practices
-- 📋 **Technical Reports** — vulnerability management and security governance documentation
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bharathraju-sec&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathraju-sec&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-📫 **Reach me at:** [bharathrarazu14396@gmail.com](mailto:bharathrarazu14396@gmail.com) &nbsp;|&nbsp; 📍 Sydney, NSW
-
-*"Security is not a product, but a process." — Bruce Schneier*
-
-</div>
