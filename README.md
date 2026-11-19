@@ -30,7 +30,7 @@ My technical focus spans network security, incident response, threat intelligenc
 - **[Professional Portfolio](https://github.com/bharathraju-sec/bharathraju-sec.github.io)** — static JavaScript portfolio with interactive SVG illustrations, structured project content and professional branding. [Visit the deployed website](https://bharathraju.vercel.app/).
 
 
-Earlier projects: Speech Emotion Detection (Python, Librosa, Flask) and Smart Campus Navigation (GPS, Google Maps API, Firebase). Summaries are on my portfolio.
+Earlier projects: **[Face Recognition with SVM](https://github.com/bharathraju-sec/face-recognition-svm)** (B.Tech final-year project; Python, OpenCV, face_recognition, scikit-learn), Speech Emotion Detection (Python, Librosa, Flask) and Smart Campus Navigation (GPS, Google Maps API, Firebase). Summaries are on my portfolio.
 
 ## Technical skills
 
