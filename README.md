@@ -26,12 +26,9 @@ My technical focus spans network security, incident response, threat intelligenc
 
 ## Public software projects
 
-- **[Password Strength Analyser](https://github.com/bharathraju-sec/password-strength-analyser)** — client-side password scoring, pattern detection, entropy and model-based crack-time estimates; JavaScript, HTML, CSS and Jest.
+- **[Password Strength Analyser](https://github.com/bharathraju-sec/password-strength-analyser)** — client-side password scoring, pattern detection, entropy and model-based crack-time estimates; JavaScript, HTML, CSS and Jest. [Live demo](https://bharathraju-sec.github.io/password-strength-analyser/)
 - **[Professional Portfolio](https://github.com/bharathraju-sec/bharathraju-sec.github.io)** — static JavaScript portfolio with interactive SVG illustrations, structured project content and professional branding. [Visit the deployed website](https://bharathraju.vercel.app/).
 
-<!-- Add Chaanavya only after the owner explicitly confirms commercial-public visibility:
-- **[Chaanavya](https://github.com/bharathraju-sec/Chaanavya/tree/upgrade)** — independent e-commerce redevelopment using Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma, Better Auth and Docker. In development; checkout is not open, and customer journeys remain unverified.
--->
 
 Earlier projects: Speech Emotion Detection (Python, Librosa, Flask) and Smart Campus Navigation (GPS, Google Maps API, Firebase). Summaries are on my portfolio.
 
