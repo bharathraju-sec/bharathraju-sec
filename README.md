@@ -3,7 +3,7 @@
 
 **Cybersecurity Engineering | Network Security | Infrastructure & AI Security**
 
-[Professional Portfolio](https://bharathraju.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/bharathrajusubramani/) · [Email](mailto:bharathrarazu14396@gmail.com)
+[Professional Portfolio](https://bharathraju.is-a.dev/) · [LinkedIn](https://www.linkedin.com/in/bharathrajusubramani/) · [Email](mailto:bharathrarazu14396@gmail.com)
 
 Sydney, NSW, Australia
 
@@ -22,12 +22,12 @@ My technical focus is network security, security architecture, vulnerability ass
 | **DeceptID — AI-Powered Identity Security Platform** | Early development, 2026–present | Collaborative identity security project exploring consent-aware biometric identification, presentation attack detection, deterministic access decisions and security auditing. Architecture and foundational synthetic camera testing have begun; full biometric functionality remains under development. |
 | **Cyber Incident Investigation & Response** | Simulated academic case study, 2026 | Reconstructed an infostealer-driven account takeover from authentication logs and audit records. Identified 412 export calls and potential exposure of approximately 41,200 candidate profiles; developed an incident response plan. |
 
-[Explore project summaries on my portfolio](https://bharathraju.vercel.app/#projects). Private project repositories and restricted academic material are not publicly shared.
+[Explore project summaries on my portfolio](https://bharathraju.is-a.dev/#projects). Private project repositories and restricted academic material are not publicly shared.
 
 ## Public software projects
 
 - **[Password Strength Analyser](https://github.com/bharathraju-sec/password-strength-analyser)** — client-side password scoring, pattern detection, entropy and model-based crack-time estimates; JavaScript, HTML, CSS and Jest. [Live demo](https://bharathraju-sec.github.io/password-strength-analyser/)
-- **[Professional Portfolio](https://github.com/bharathraju-sec/bharathraju-sec.github.io)** — static JavaScript portfolio with interactive SVG illustrations, structured project content and professional branding. [Visit the deployed website](https://bharathraju.vercel.app/).
+- **[Professional Portfolio](https://github.com/bharathraju-sec/bharathraju-sec.github.io)** — static JavaScript portfolio with interactive SVG illustrations, structured project content and professional branding. [Visit the deployed website](https://bharathraju.is-a.dev/).
 
 Earlier academic implementations:
 
@@ -82,5 +82,5 @@ Professional network engineering experience is distinct from academic cybersecur
 
 Capture the Flag challenges, cybersecurity research, technical presentations and collaborative security projects.
 
-For professional experience and project details, visit [my portfolio](https://bharathraju.vercel.app/) or [LinkedIn](https://www.linkedin.com/in/bharathrajusubramani/).
+For professional experience and project details, visit [my portfolio](https://bharathraju.is-a.dev/) or [LinkedIn](https://www.linkedin.com/in/bharathrajusubramani/).
 
